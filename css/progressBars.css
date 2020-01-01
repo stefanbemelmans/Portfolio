@@ -1,0 +1,55 @@
+.skillBar {
+  /* padding: 6px; */
+  /* background: #fff;  */
+  background-color: #7267d5;
+  border-radius: 1.25rem;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.25), 0 1px rgba(255, 255, 255, 0.08);
+  height: 20px;
+  margin-top: 7px;
+  position: relative;
+  width: 600px;
+  border: 2px solid #48CFAD;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.skill {
+  /* width: 100%; */
+   background: #fff; 
+  /* background-color: #7267d5; */
+  transition: 1s linear;  
+  transition-property: width, background-color;
+  border-radius: 12px; 
+}
+
+.skillHtml {
+  width: 70%;
+    /* background-image: linear-gradient(to right,
+  #fafafa, #7267d5); */
+}
+
+.skillCss {
+  width: 70%
+  /* background-image: linear-gradient(to right,
+  #fafafa, #7267d5); */
+}
+
+.skillJavascript {
+  width: 73%;
+}
+
+.skillReact {
+  width: 73%;
+}
+
+.skillCsharp {
+  width: 60%;
+}
+.skillBlazor {
+  width: 60%;
+}
+
+.skillBlockchain {
+  width: 75%;
+}
