@@ -3,4 +3,4 @@
 
 Revamping my web development portfolio
 
-Building this in HTML5, CSS3 and uisng this cool (hover)[http://ianlunn.github.io/Hover/] library.
+Building this in HTML5, CSS3 and uisng this cool [hover](http://ianlunn.github.io/Hover/) library.
