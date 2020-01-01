@@ -331,6 +331,9 @@ div.hideCategory {
 #myWork .card-body p {
     background-color: #e5f2fe;
 } 
+#myWork .card-body {
+    background-color: #e2eafe;
+}
 .showCategory {
     display: block;
 }
