@@ -323,17 +323,28 @@ button.active {
 div.hideCategory {
     display: none;
 }
-.work #design a {
+.work #design a,
+#myWork .card-body a
+ {
     transform: translateY(0px);
     color: #4a4af4;
 }
 
 #myWork .card-body p {
     background-color: #e5f2fe;
+    padding: 3px;
 } 
 #myWork .card-body {
     background-color: #e2eafe;
+    height: 16rem;
 }
+
+#myWork .card .card-img-top {
+    width: 100%;
+    margin: auto;
+    height: 17rem;
+}
+
 .showCategory {
     display: block;
 }
